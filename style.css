@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    button{
+        padding: 10px 30px;
+        transform: translateY(36vh);
+        font-weight: 600;
+        font-size: 1rem;
+        border-radius: 20px;
+        border-color: rgb(9, 129, 235);
+    }
+}
+html{
+    overflow: hidden;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(water.jpeg); /* Ensures the background image covers the entire body */
+}
+
+#title {
+    text-align: center;
+    color: black; /* Example: Set text color to white for visibility */
+    /* Additional styling for the title */
+}
+
+#average{
+    padding: 100px;
+    border-radius: 20px;
+    transform: translate(70vh,-50vh);
+    background-color: aliceblue;
+}
+#result{
+    transform: translate(70vh,-90vh);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container input{
+    border-color: rgb(9, 129, 235);
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 0%;
+    padding: 10px 60px 10px ;
+    align-items: center;
+}
+
