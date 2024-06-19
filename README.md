@@ -1,7 +1,9 @@
-# E-Commerce Project for Water Consevation
+# Water Footprint Tracker
 
-This project is done for making a communication barrier between <br>
-NGO's and Industries
+This Project Is Done To Make User Conscious Of How Much Water<br>  
+He/Her Uses On Daily Basis As Well As Weekly .<br>
+This Project Takes In Account Average Water User Uses In a Day And <br>
+Gives Suggestion On How To Use Water Further.
 
 ## You can see the preview of this site
 
