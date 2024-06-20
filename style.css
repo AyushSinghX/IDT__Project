@@ -48,3 +48,12 @@ body {
     align-items: center;
 }
 
+#footer{
+    color: white;
+    font-weight: 600;
+    background-color: black;
+    padding-left: 20%;
+    padding-bottom: 50%;
+    padding-top: 10px;
+}
+
